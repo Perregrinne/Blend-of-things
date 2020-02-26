@@ -1,0 +1,1 @@
+Years ago when I started this, it was supposed to be the biggest and most complex of the addons I made. Sadly, I got busy and don't have an opportunity right now to finish and refactor my 4:00AM code. I am aware that it is probably the messiest of my addons.
